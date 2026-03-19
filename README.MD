@@ -14,7 +14,7 @@ They show up as notifications. No chat, no replies, no history.
 ## Why I Built It
 
 I noticed that a lot of the time I wanted to reach out to someone, but opening a chat felt like too much.
-Not because I had something big to say — just because messaging usually turns into a conversation, and that’s not always what I want.
+Not because I had something big to say, just because messaging usually turns into a conversation, and that’s not always what I want.
 So I built something simpler.
 
 ---
